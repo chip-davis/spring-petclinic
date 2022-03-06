@@ -1,3 +1,4 @@
+```
 chip@pop-os:~/Documents/classes/devops/hw/hw5/spring-petclinic$ sudo docker-compose up
 Starting spring-petclinic_mysql_1 ... done
 Attaching to spring-petclinic_mysql_1
@@ -157,5 +158,5 @@ mysql_1  | 2022-03-06T18:24:22.116653Z 0 [Warning] Insecure configuration for --
 mysql_1  | 2022-03-06T18:24:22.122535Z 0 [Note] Event Scheduler: Loaded 0 events
 mysql_1  | 2022-03-06T18:24:22.122848Z 0 [Note] mysqld: ready for connections.
 mysql_1  | Version: '5.7.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
-
+```
 
